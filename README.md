@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @currentlylearningjava
-- 👀 I’m interested in making java projects and understanding how java works
-- 🌱 I’m currently learning java. I am a beginner
+- 👋 Hi, I’m @ProgrammingIsCool
+- 👀 I’m interested in making projects and understanding how they work
+- 🌱 I’m currently learning java,html,css,javascript
 - 💞️ I’m looking to collaborate on (not sure atm)
 - 📫 How to reach me (just message me if you want)
 
